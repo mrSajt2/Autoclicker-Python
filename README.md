@@ -1,5 +1,6 @@
 # Autoclicker-Python
-Autoclicker
+Autoclicker using PyAutogui
+
   
 mr_sajt
   
